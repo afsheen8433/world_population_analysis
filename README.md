@@ -49,6 +49,4 @@ The dashboard provides interactive visuals including:
 ## 🧑‍💻 Author
 
 **Afsheen Ansari**  
-[LinkedIn](www.linkedin.com/in/afsheenansari
-
-) | [Gmail](afsheen8433ansari@gmail.com)
+[LinkedIn](www.linkedin.com/in/afsheenansari) | [Email](afsheen8433ansari@gmail.com)
